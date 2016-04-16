@@ -25,17 +25,17 @@ public class Constants {
     /**
      * URL to the POST form
      */
-    public static final String LINK = "https://test.com/screens/upload.php";
+    public static final String LINK = "CHANGEME/process.php";
 
     /**
      * URL to the folder of the saved images
      */
-    public static final String UPLOAD_DIR = "https://test.com/screens/";
+    public static final String UPLOAD_DIR = "CHANGEME/";
 
     /**
      * Password to send with the POST form
      */
-    public static final String PASSWORD = "SECRETPASSWORD";
+    public static final String PASSWORD = "CHANGEME";
 
     /**
      * Prevents initialisation

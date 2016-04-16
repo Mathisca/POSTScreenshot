@@ -3,7 +3,7 @@
     <output-path>C:/JarsService</output-path>
     <root id="archive" name="Screenshots.jar">
       <element id="module-output" name="Screenshots" />
-      <element id="extracted-dir" path="$USER_HOME$/Desktop/jnativehook-2.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jnativehook-2.0.3.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>

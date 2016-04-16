@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <eclipse-userlibraries>
   <library name="jnativehook-2.0.3">
-    <archive path="C:/Users/Mathis/Desktop/jnativehook-2.0.3.jar" />
+    <archive path="lib/jnativehook-2.0.3.jar" />
   </library>
 </eclipse-userlibraries>
 
