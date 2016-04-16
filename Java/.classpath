@@ -3,5 +3,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jnativehook-2.0.3"/>
+	<classpathentry kind="lib" path="lib/jnativehook-2.0.3.jar"/>
 	<classpathentry kind="output" path="out/production/Screenshots"/>
 </classpath>
