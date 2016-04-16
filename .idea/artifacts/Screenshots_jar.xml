@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Screenshots:jar">
+    <output-path>C:/JarsService</output-path>
+    <root id="archive" name="Screenshots.jar">
+      <element id="module-output" name="Screenshots" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/jnativehook-2.0.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
